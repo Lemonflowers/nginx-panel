@@ -24,7 +24,7 @@ curl -fsSL https://github.com/Lemonflowers/nginx-panel/raw/main/debian.sh | sudo
 AlmaLinux（全系兼容）<br>
 curl -fsSL https://github.com/Lemonflowers/nginx-panel/raw/main/AlmaLinux.sh | sudo bash<br>
 
-登录地址为: http://服务器IP:8809<br>
+登录地址为: http://服务器IP:8899<br>
 管理员账号和密码： admin/123456<br>
 安装完成 请安装SSH输出提示.手动补充 acme.sh的 命令<br>
 
