@@ -9,7 +9,6 @@ cloudfare 集成 支持DNS 全局API管理<br>
 日志分析（基于PHP）<br>
 缓存管理 （文件）<br>
 5秒盾 （请求频率）<br>
-Nginx  镜像数据快照<br>
 IP拉黑 全局模式<br>
 防跨站  （SSL）<br>
 
