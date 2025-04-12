@@ -1,5 +1,6 @@
 <per>
 V1.40 完结 （将无持续更新）如有Bug,请与我反馈提供支持哦！<br>
+如有Bug纯属雷同 请自我修正,或反馈给我哈.我们会按危险等级去处理。<br>
 
 基于 yum apt dnf 安装的nginx开源 反向面板<br>
 反向代理 集成 HTTP2 WS GZIP 自定义缓存<br>
@@ -30,7 +31,7 @@ curl -fsSL https://github.com/Lemonflowers/nginx-panel/raw/main/AlmaLinux.sh | s
 
 服务器配置要求<br>
 1H256M 5G HDD <br>
-服务器要求端口  80,443  默认初次监听 8899为管理端口  <br>
+服务器要求监听端口  80,443 9000  8080  默认初次监听 8899为管理端口  <br>
 </per>
 
 
